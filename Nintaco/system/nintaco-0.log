@@ -1,0 +1,50 @@
+20190824-13:58:59.809 INFO: Failed to open device (/dev/input/event0): Failed to open device /dev/input/event0 (13)
+
+
+20190824-13:58:59.871 INFO: Failed to open device (/dev/input/event1): Failed to open device /dev/input/event1 (13)
+
+
+20190824-13:58:59.871 INFO: Failed to open device (/dev/input/event10): Failed to open device /dev/input/event10 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event11): Failed to open device /dev/input/event11 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event12): Failed to open device /dev/input/event12 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event13): Failed to open device /dev/input/event13 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event14): Failed to open device /dev/input/event14 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event15): Failed to open device /dev/input/event15 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event2): Failed to open device /dev/input/event2 (13)
+
+
+20190824-13:58:59.872 INFO: Failed to open device (/dev/input/event3): Failed to open device /dev/input/event3 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event4): Failed to open device /dev/input/event4 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event5): Failed to open device /dev/input/event5 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event6): Failed to open device /dev/input/event6 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event7): Failed to open device /dev/input/event7 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event8): Failed to open device /dev/input/event8 (13)
+
+
+20190824-13:58:59.873 INFO: Failed to open device (/dev/input/event9): Failed to open device /dev/input/event9 (13)
+
+
+20190824-13:58:59.874 INFO: Linux plugin claims to have found 0 controllers
+
